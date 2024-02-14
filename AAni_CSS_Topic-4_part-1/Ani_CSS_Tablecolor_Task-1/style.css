@@ -1,0 +1,23 @@
+table thead td{
+    background-color: black;
+    color: whitesmoke;
+    padding-right: 400px;
+    padding: 4px;
+    height: 30px;
+}
+
+table tbody tr td{
+    padding-right: 200px;
+    height: 30px;
+}
+table{
+    border: none;
+}
+
+table td{
+padding-left: 10px;
+}
+
+table thead td{
+   padding-left: 10px; 
+}

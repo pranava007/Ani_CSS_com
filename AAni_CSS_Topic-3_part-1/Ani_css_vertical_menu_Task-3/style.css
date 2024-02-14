@@ -1,0 +1,22 @@
+li{
+
+
+  color: rgb(252, 249, 249);
+  
+
+}
+nav{
+
+    background-color: royalblue;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(16, 15, 15);
+}
+
+li:hover{
+    background-color: aliceblue;
+    color: black;
+}

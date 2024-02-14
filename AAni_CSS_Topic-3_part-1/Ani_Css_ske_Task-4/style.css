@@ -1,0 +1,47 @@
+nav {
+  background-color: royalblue;
+  padding: 10px;
+  text-align: center;
+}
+
+.sec1 {
+  background-color: red;
+  width: 500px;
+  height: 600px;
+
+  padding: 1px;
+
+  margin: 2px;
+
+  float: left;
+}
+
+.sec2 {
+  background-color: rgb(0, 255, 0);
+  width: 500px;
+  height: 600px;
+  margin: 2px;
+
+  padding: 1px;
+
+  float: left;
+}
+
+.sec3 {
+  background-color: rgb(255, 200, 0);
+  width: 500px;
+  height: 600px;
+  margin: 2px;
+  padding: 1px;
+
+  float: left;
+}
+
+footer {
+  text-align: center;
+  background-color: blueviolet;
+
+  padding: 10px;
+  width: 98.5%;
+  float: left;
+}

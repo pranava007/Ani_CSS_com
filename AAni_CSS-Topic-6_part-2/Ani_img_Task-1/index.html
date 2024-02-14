@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Slider</title>
+<style>
+    .slider {
+        width: 400px;
+        height: 300px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .slider img {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+    }
+
+    .slider img.active {
+        opacity: 1;
+    }
+
+    @keyframes slide {
+        0% {
+            opacity: 0;
+        }
+        25% {
+            opacity: 1;
+        }
+        75% {
+            opacity: 1;
+        }
+        100% {
+            opacity: 0;
+        }
+    }
+
+    .slider img:nth-child(1) {
+        animation: slide 8s infinite;
+    }
+
+    .slider img:nth-child(2) {
+        animation: slide 8s infinite 2s;
+    }
+
+    .slider img:nth-child(3) {
+        animation: slide 8s infinite 4s;
+    }
+
+    /* Add more nth-child selectors for additional images */
+</style>
+</head>
+<body>
+ <center>
+    <h1>Image Slider animation</h1>
+    <br>
+    <div class="slider">
+        <img src="./image.jpg" class="active">
+        <img src="./3ted.jpg">
+        <img src="./free-images.jpg">
+        <!-- Add more image elements for additional images -->
+    </div>
+</center>
+</body>
+</html>

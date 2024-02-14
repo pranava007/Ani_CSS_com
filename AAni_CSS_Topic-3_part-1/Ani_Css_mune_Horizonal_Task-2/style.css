@@ -1,0 +1,32 @@
+nav{
+
+    background-color: royalblue;
+}
+ul{
+
+  list-style-type: none;
+  padding: 10px;
+  /* width: 85%; */
+ 
+}
+
+li{
+    display: inline;
+    padding-left: 200px;
+    border-right:1px solid #bbb;
+    color: white;
+    
+
+    
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+li :hover{
+    background-color: rgb(245, 245, 245);
+    color: black;
+    padding: 2px;
+    border-radius: 5px;
+}

@@ -1,0 +1,9 @@
+h1{
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+}
+ul{
+    list-style-image: url('./icons8-close-10.png');
+  
+}

@@ -1,0 +1,49 @@
+body {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+  background-color: rgb(217, 221, 225);
+}
+
+.nav-background {
+  background-color: rgb(96, 98, 99);
+  padding: 35px;
+}
+
+.Navigation {
+  background-color: rgb(96, 98, 99);
+  padding: 20px;
+  margin-top: 8px;
+}
+
+.banner {
+  background-color: rgb(96, 98, 99);
+  padding: 80px;
+  margin-top: 8px;
+}
+
+.condainer {
+  /* background-color: blueviolet; */
+  margin-top: 20px;
+  /* padding: 30px; */
+}
+.said-bar {
+  background-color: rgb(96, 98, 99);
+
+  height: 600px;
+  width: 1060px;
+  float: right;
+}
+
+.body-area {
+  background-color: rgb(96, 98, 99);
+  height: 600px;
+  width: 300px;
+}
+
+.footer-colo {
+  background-color: rgb(96, 98, 99);
+  margin-top: 10px;
+  padding: 30px;
+}

@@ -1,0 +1,377 @@
+body {
+  background-color:rgb(98, 18, 18);
+  /* padding-bottom: 10px; */
+  /* width: 100%; */
+  /* height: 100%; */
+
+
+}
+
+.logo {
+  float: left;
+}
+
+.logo h1 {
+  margin-top: 0px;
+}
+
+.Search {
+  margin-left: 1210px;
+  margin-top: 5px;
+  padding-top: 10px;
+}
+
+.logo h1 b {
+  font-size: 30px;
+}
+
+.inpb {
+  background-color: rgb(98, 18, 18);
+  border: 1px solid whitesmoke;
+  color: whitesmoke;
+  border-radius: 1px;
+}
+.banner {
+  background: linear-gradient(to right, #603813, #b29f94, #603813);
+  padding: 50px;
+}
+
+.banner-content {
+  margin-left: 210px;
+  margin-right: 150px;
+  margin-bottom: 50px;
+}
+.bac {
+  color: whitesmoke;
+  background-color: rgb(119, 110, 110);
+  padding: 1px;
+}
+
+.menu {
+  background-color: #603813;
+  padding: 10px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.menu li a:hover {
+  color: yellow;
+}
+.menu li {
+  list-style-type: none;
+  display: inline;
+  margin-left: 95px;
+  color: whitesmoke;
+}
+
+.content {
+  background-color: rgb(98, 18, 18);
+  padding-bottom: 100px;
+  padding-right: 1200px;
+  float: left;
+}
+
+.content-tow {
+  background-color: rgb(98, 18, 18);
+  position: relative;
+  margin-left: 350px;
+  bottom: 784px;
+  width: 1150px;
+  /* height: 5px; */
+  float: left;
+}
+
+.sub-content {
+  background-color: rgb(122, 117, 117);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #603813;
+  padding-left: 10px;
+  padding-right: 150px;
+  height: 30px;
+}
+.email-content {
+  background-color: rgb(98, 18, 18);
+  text-align: end;
+}
+
+.para p {
+  color: yellow;
+}
+.para span {
+  color: yellow;
+}
+.para pre {
+  color: whitesmoke;
+}
+
+.para {
+  padding-left: 15px;
+  margin-right: 10px;
+}
+
+.image-one {
+  width: 50px;
+  height: 40px;
+  background-color: aliceblue;
+  float: left;
+  color: royalblue;
+  text-align: center;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+.image-Two {
+  width: 85px;
+  height: 40px;
+  background-color: rgba(245, 201, 79, 0.875);
+  float: left;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image-one1 {
+  margin-left: 5px;
+  width: 50px;
+  height: 40px;
+  background-color: aliceblue;
+  float: left;
+  color: royalblue;
+  text-align: center;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+.image-Two2 {
+  width: 85px;
+  height: 40px;
+  background-color: rgb(112, 141, 226);
+  float: left;
+  font-weight: bold;
+  text-align: center;
+}
+/* content-tow */
+.content-tow h3 {
+  background-color: black;
+  color: yellow;
+  padding: 5px;
+  position: relative;
+  bottom: 21px;
+}
+
+.content-tow .het {
+  position: relative;
+  bottom: 40px;
+}
+
+.Box-1 {
+  float: left;
+  margin-left: 110px;
+}
+.Box-2 {
+  float: left;
+  margin-left: 110px;
+}
+.Box-3 {
+  float: left;
+  margin-left: 110px;
+}
+
+.Two-Box1{
+
+  background-color:  rgb(98, 18, 18);
+  padding: 15px;
+  height: 276px;
+  position: relative;
+  top: 300px;
+ 
+}
+
+.insied-Box1{
+  background-color:  rgb(98, 18, 18);
+  width: 500px;
+  height: 306px;
+  position: relative;
+  right: 15px;
+  bottom: 15px;
+  
+}
+
+.News{
+  color: yellow;
+  background-color: black;
+  position: relative;
+  bottom: 275px;
+  padding-right: 448px;
+  padding-bottom: 12px;
+  padding-top: 5px;
+  font-weight: bolder;
+  
+}
+
+.News b{
+  /* margin: 7px; */
+  margin-top:7px ;
+  margin-bottom:7px ;
+  margin-left: 7px;
+  font-size: 20px;
+  position: relative;
+  top: 5px;
+}
+
+.line hr{
+  position: relative;
+  bottom: 274px;
+}
+
+
+.relative-change{
+  position: relative;
+  bottom: 300px;
+  left: 10px;
+}
+
+.Box-1-2{
+  width: 100px;
+  height: 100px;
+  background-color:rgb(151, 130, 108);
+  margin-bottom: 25px;
+  margin-top: 10px;
+  text-align: center;
+  float: left;
+}
+
+.Box-2-2{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(151, 130, 108);
+  text-align: center;
+  position: relative;
+  right: 100px;
+ float: left;
+
+
+}
+.Box-1-2 b{
+  color: white;
+  position: relative;
+  top: 25px;
+
+
+}
+.Box-2-2 b{
+  color: white;
+  position: relative;
+  top: 25px;
+}
+.Box-1-content pre {
+
+ color: white;
+ position: relative;
+ bottom: 5px;
+ left: 5px;
+  
+}
+.Box-2-content{
+  position: relative;
+  right: 90px;
+  bottom: 10px;
+}
+
+.Box-2-content pre {
+
+  color: white;
+  position: relative;
+  bottom: 5px;
+  right: 4px;
+   
+ }
+
+ .Top{
+  color: yellow;
+  background-color: black;
+  position: relative;
+  left: 651px;
+  bottom: 630px;
+  font-weight: bolder;
+  padding-right: 360px;
+  padding-bottom: 12px;
+  padding-top: 5px;
+ }
+
+.Top b{
+   /* margin-top:10px ; */
+  /* margin-bottom:9px ; */
+  margin-left: 7px;
+  font-size: 20px;
+  position: relative;
+  top: 7px;
+}
+.BOx-line{
+  position: relative;
+  left: 650px;
+  bottom: 627px;
+}
+.list-NG button{
+ background-color: rgb(112, 105, 105);
+ border: none;
+ color: white;
+ padding: 3px;
+ position: relative;
+ left: 200px;
+}
+.list-NG{
+  background-color: #b29f94;
+  padding: 5px;
+  position: relative;
+  left: 650px;
+  bottom: 635px;
+}
+
+.list-NG p {
+  height: 1.6px;
+  margin-left: 10px;
+}
+.list-NG hr {
+  height:1px;
+  margin-left: 10px;
+ 
+}
+
+
+.footer-last{
+  background-color: rgb(151, 130, 108);
+  padding: 30px;
+  border-radius: 10000px;
+  
+ 
+  
+}
+.footer-one{
+ position: relative;
+ right:29px;
+}
+.footer-one li{
+    display: inline;
+    color: rgb(0, 0, 0);
+}
+.footer-one a{
+
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

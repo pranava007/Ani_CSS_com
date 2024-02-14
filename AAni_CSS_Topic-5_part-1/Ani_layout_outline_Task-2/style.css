@@ -1,0 +1,76 @@
+body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: rgb(217, 221, 225);
+  }
+
+.Nav-bar{
+
+    background-color: rgb(93, 98, 103);
+    padding: 20px;
+    height: 15px;
+}
+
+.Banner{
+
+    background-color: rgb(93, 98, 103);
+    padding: 30px;
+    height: 120px;
+    margin-top: 10px;
+}
+
+.intro{
+    background-color: rgb(93, 98, 103);
+    padding: 20px;
+    margin-top: 10px;
+    height: 70px;
+}
+
+.Box1{
+    margin-top: 10px;
+    background-color: rgb(93, 98, 103);
+    padding: 20px;
+    height: 500px;
+    float: left;
+    width: 400px;
+    margin-right:5px;
+    margin-bottom: 10px;
+
+}
+
+.Box2{
+    margin-top: 10px;
+    background-color:rgb(93, 98, 103);
+    padding: 20px;
+    height: 500px;
+    float: left;
+    width: 400px;
+    margin-right:5px;
+    margin-bottom: 10px;
+
+
+
+}
+
+.Box3{
+    margin-top: 10px;
+    background-color: rgb(93, 98, 103);
+    padding: 20px;
+    height: 500px;
+    float: left;
+    width: 468px;
+    margin-bottom: 10px;
+
+}
+
+.footer{
+    margin-top: 30px;
+    background-color: rgb(93, 98, 103);
+    padding: 20px;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+

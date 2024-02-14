@@ -1,0 +1,30 @@
+form{
+
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 30px;
+    background-color: royalblue;
+}
+input{
+
+    border: none;
+}
+.mailcolor:hover{
+
+    background-color: palevioletred;
+    color: white;
+    outline-color: red;
+    
+}
+
+.passcolor:hover{
+
+    background-color: palevioletred;
+    color: white;
+    outline-color: red;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
